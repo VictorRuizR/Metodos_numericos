@@ -4,7 +4,7 @@
 **Institución:** Instituto Tecnológico Superior de Xalapa — Ingeniería en Sistemas Computacionales
 **Docente:** Víctor Hugo Vásquez Herrera
 **Práctica:** Tarea 1, Unidad 4 — Implementación de Simpson 1/3 Compuesto y análisis comparativo
-**Autor:** _(escribe aquí tu nombre)_
+**Autor:** Victor Ruiz Ruiz
 
 ## Descripción
 
